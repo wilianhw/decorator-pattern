@@ -1,7 +1,7 @@
 package org.example.product;
 
-public class Mess extends Pizza {
-    public Mess() {
+public class Simple extends Pizza {
+    public Simple() {
         this.description = "Mess";
     }
 
